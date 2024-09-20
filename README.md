@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D260F7&width=435&lines=Python+Backend+Developer" alt="Typing SVG" /></a>
+
 <!--
 **youngh0724/youngh0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
